@@ -1,0 +1,28 @@
+
+label{
+    /* color: #1976D2; */
+    margin-bottom: 0.5rem;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding:  1rem;
+    margin: auto;
+    width: 40vw;
+    /* max-width: 40vw; */
+}
+
+.form{
+display: flex;
+justify-content: center;
+align-items: center;
+background-attachment: fixed;
+background-position: center;
+height: 100%;
+width: 100%;
+}
+button{
+background-color: #1976D2;
+    max-width: 600px;
+}
+

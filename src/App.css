@@ -1,8 +1,21 @@
 .App {
   text-align: center;
+  background-color: #F6F4EB;
+
+}
+html{
+  scroll-behavior: smooth;
+
 }
 
-.App-logo {
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+
+  
+}
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

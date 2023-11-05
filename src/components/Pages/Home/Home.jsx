@@ -4,6 +4,7 @@ import "./Home.css";
 import { Portfolio } from "../Portfolio/Portfolio";
 import { Contact } from "../Contact/Contact";
 import { AboutMe } from "../AboutMe/AboutMe";
+import EmailForm from '../../Features/EmailForm/EmailForm'
 import AOS from "aos";
 import "aos/dist/aos.css";
 // import { jsPDF } from "jspdf";
@@ -66,6 +67,7 @@ export const Home = () => {
       <Portfolio />
       <Contact />
       <AboutMe />
+      
     </>
   );
 };

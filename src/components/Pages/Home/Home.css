@@ -130,3 +130,16 @@ align-items: center;
   from {opacity: .5}
   to {opacity: 2}
 }
+
+
+/* containerHome */
+
+@media only screen and (max-width: 600px) {
+  .picUseReducer{
+    width:75vw;
+  }
+.description{
+  display: flex;
+  align-items: center;
+}
+}

@@ -135,6 +135,9 @@ align-items: center;
 /* containerHome */
 
 @media only screen and (max-width: 600px) {
+  body{
+    width: 75vw;
+  }
   .picUseReducer{
     width:75vw;
   }

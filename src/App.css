@@ -14,10 +14,9 @@ html{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    
   }
 
-
-  
 }
 /* .App-logo {
   height: 40vmin;

@@ -64,6 +64,7 @@ export const Home = () => {
           />
         </div>
       </div>
+      <br />
       <Portfolio />
       <Contact />
       <AboutMe />

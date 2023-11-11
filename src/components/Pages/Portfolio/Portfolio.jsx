@@ -77,7 +77,7 @@ export const Portfolio = () => {
           </CardActions>
         </Card>
 
-        <Card
+        {/* <Card
           sx={{ maxWidth: 345 }}
           className="w3-center w3-animate-right "
           data-aos="fade-left"
@@ -102,7 +102,7 @@ export const Portfolio = () => {
               <Button size="small">Demo</Button>
             </a>
           </CardActions>
-        </Card>
+        </Card> */}
       </div>
     </div>
   );

@@ -58,19 +58,19 @@ export const Portfolio = () => {
           <CardMedia
             className=" w3-hover-opacity"
             sx={{ height: 140, width: 350 }}
-            image="../../../img/perfumeShop.jpeg"
-            title="moviePic"
+            image="../../../img/TechSomeHelp.jpeg"
+            title="TechSomeHelp"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Ecommerce Website
+            Tech Some Help
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              We feel good when we smell good, try new perfumes on half the price.
+            A unique platform that communicate between students and Course graduates.
             </Typography>
           </CardContent>
           <CardActions>
-            <a href="http://linkedin.com/in/yehooda-ishta-ba9a9a202">
+            <a href="https://tech-club-bcb96.web.app/">
               <Button size="small">Demo</Button>
             </a>
             {/* <Button size="small">Buy</Button> */}
